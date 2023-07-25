@@ -1,16 +1,13 @@
-### TODO
+# Welcome to my Github!
 
-<!--
-**IlanAzoulay/IlanAzoulay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### My name is Ilan Azoulay, I am a full-stack engineer from France. I am specialized in:
+- Front-end development (Vue.js, Nuxt, React)
+- Back-end development (Nest.js, Node.js, .Net)
 
-Here are some ideas to get you started:
+#### Here in my Github you will find:
+- my open-source projects
+- the source code of my website
+- forks to improve projects I like
+- various coding tests and academic projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### I hope you enjoy your visit!
